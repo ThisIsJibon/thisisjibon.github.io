@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Researches on Mehedi Hasan Jibon</title>
+    <link>//thisisjibon.tech/research/</link>
+    <description>Recent content in Researches on Mehedi Hasan Jibon</description>
+    <image>
+      <url>//thisisjibon.tech/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//thisisjibon.tech/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Apr 2022 23:15:00 +0700</lastBuildDate><atom:link href="//thisisjibon.tech/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unraveling the Intersection of HCI and Neurodiversity in Bangladesh</title>
+      <link>//thisisjibon.tech/research/erpred/</link>
+      <pubDate>Tue, 05 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>//thisisjibon.tech/research/erpred/</guid>
+      <description>Overview In the enchanting realm where Human-Computer Interaction (HCI) meets the captivating tapestry of neurodiversity, our research project, &amp;ldquo;Unraveling the Intersection of HCI and Neurodiversity in Bangladesh,&amp;rdquo; seeks to illuminate new pathways of understanding and support for individuals with Attention-Deficit/Hyperactivity Disorder (ADHD).
+Semi-Structured Interviews: As explorers of human experiences, we embarked on a journey of discovery. Through semi-structured interviews with parents of children with ADHD and expert caregivers, we navigated the intricate web of attitudes, beliefs, and lived realities surrounding ADHD within the Bangladeshi cultural context.</description>
+    </item>
+    
+    <item>
+      <title>BanglaBeats: Enhancing Bangla Music Genre Classification</title>
+      <link>//thisisjibon.tech/research/acetylcholinesterase/</link>
+      <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>//thisisjibon.tech/research/acetylcholinesterase/</guid>
+      <description>Overview In the vibrant world of music and machine learning, our project, &amp;ldquo;BanglaBeats,&amp;rdquo; emerges as a harmonious fusion of technology and culture. Focusing on the rich and diverse landscape of Bangla music, we embarked on a journey to enhance the accuracy and efficiency of Bangla music genre classification.
+Comprehensive Dataset At the heart of our project lies a meticulously curated dataset of Bangla songs. Comprising 1617 data samples spanning across 8 distinct genres, it forms the foundation upon which our research thrives.</description>
+    </item>
+    
+  </channel>
+</rss>
