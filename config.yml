@@ -1,5 +1,5 @@
 languageCode: en-us
-baseURL: "https://thisisjibon.github.io/"
+baseURL: "//thisisjibon.github.io/"
 title: Mehedi Hasan Jibon
 paginate: 5
 theme: PaperMod
