@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Mehedi Hasan Jibon</title>
-    <link>//thisisjibon.tech/projects/</link>
+    <link>//thisisjibon.github.io/projects/</link>
     <description>Recent content in Projects on Mehedi Hasan Jibon</description>
     <image>
-      <url>//thisisjibon.tech/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//thisisjibon.tech/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//thisisjibon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//thisisjibon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Apr 2022 23:15:00 +0700</lastBuildDate><atom:link href="//thisisjibon.tech/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 23:15:00 +0700</lastBuildDate><atom:link href="//thisisjibon.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Serious-Manager</title>
-      <link>//thisisjibon.tech/projects/serious-manager/</link>
+      <link>//thisisjibon.github.io/projects/serious-manager/</link>
       <pubDate>Wed, 06 Apr 2022 23:15:00 +0700</pubDate>
       
-      <guid>//thisisjibon.tech/projects/serious-manager/</guid>
+      <guid>//thisisjibon.github.io/projects/serious-manager/</guid>
       <description>Overview Serious-Manager predicts optimal Fantasy Premier League team for a gameweek, suggests optimal transfer and best captain choice. We created a comprehensive time-series database of all premier league players, incorporated various prediction approaches like Neural Network, Random Forest, Decision Tree. Our approach surpassed average FPL manager&amp;rsquo;s score by scoring over 100%.
 Features 📈 Remarkable Score Boost: Our approach surpassed average FPL manager score by over 100%, it reshapes the playing field, turning every matchday into an opportunity for success.</description>
     </item>
     
     <item>
       <title>UniManage</title>
-      <link>//thisisjibon.tech/projects/unimanage/</link>
+      <link>//thisisjibon.github.io/projects/unimanage/</link>
       <pubDate>Tue, 05 Apr 2022 23:15:00 +0700</pubDate>
       
-      <guid>//thisisjibon.tech/projects/unimanage/</guid>
+      <guid>//thisisjibon.github.io/projects/unimanage/</guid>
       <description>Overview UniManage is a web platform designed to streamline university administration processes. Our innovative approach includes a robust third normal form database architecture to ensure data integrity. With features like real-time results updates, convenient course registration, and personalized daily schedules, UniManage empowers universities to operate more efficiently and provide a seamless experience for students and faculty.
 Features 📊 Efficient Database Design: At the core of UniManage lies a robust designed database structure.</description>
     </item>
     
     <item>
       <title>Classmate</title>
-      <link>//thisisjibon.tech/projects/classmate/</link>
+      <link>//thisisjibon.github.io/projects/classmate/</link>
       <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
       
-      <guid>//thisisjibon.tech/projects/classmate/</guid>
+      <guid>//thisisjibon.github.io/projects/classmate/</guid>
       <description>Overview Classmate is a dynamic hub for educators and students to foster collaborative learning environment. This powerful tool seamlessly integrates class management with advanced database query functionalities, providing an all-in-one solution for educational communities.
 Features 📚 Streamlined Class Management: With a user-friendly interface, Classmate empowers educators to efficiently manage classes, threads, and resources. With the help of using Builder Design Pattern and traditional Object-Oriented Programming concepts in its architecture, we ensured scalability and adaptability.</description>
     </item>
