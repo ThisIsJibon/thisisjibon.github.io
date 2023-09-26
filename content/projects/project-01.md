@@ -1,14 +1,14 @@
 ---
 title: "Classmate"
-date: 2022-04-04T23:15:00+07:00
+date: 2020-07-06T23:15:00+07:00
 slug: classmate
 category: projects
 summary:
 description:
 cover:
-  image:
+  image: "images/projects/classmate-1.png"
   alt:
-  caption:
+  caption: "Figure: course based community threads"
   relative: true
 showtoc: true
 draft: false

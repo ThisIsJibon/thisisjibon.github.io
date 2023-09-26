@@ -3,82 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//thisisjibon.github.io/about/</loc>
+    <loc>https://thisisjibon.github.io/research/banglabeats/</loc>
+    <lastmod>2023-09-15T23:15:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisisjibon.github.io/research/</loc>
+    <lastmod>2023-09-15T23:15:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisisjibon.github.io/research/adhd-intervention/</loc>
+    <lastmod>2023-09-05T23:15:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisisjibon.github.io/projects/</loc>
+    <lastmod>2023-05-19T23:15:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisisjibon.github.io/projects/shopwise/</loc>
+    <lastmod>2023-05-19T23:15:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisisjibon.github.io/projects/serious-manager/</loc>
+    <lastmod>2023-01-05T23:15:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisisjibon.github.io/projects/unimanage/</loc>
+    <lastmod>2022-06-30T23:15:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisisjibon.github.io/about/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url>
   
   <url>
-    <loc>//thisisjibon.github.io/infographics/</loc>
+    <loc>https://thisisjibon.github.io/infographics/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url>
   
   <url>
-    <loc>//thisisjibon.github.io/</loc>
+    <loc>https://thisisjibon.github.io/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url>
   
   <url>
-    <loc>//thisisjibon.github.io/blogs/</loc>
+    <loc>https://thisisjibon.github.io/blogs/</loc>
     <lastmod>2022-04-08T23:15:00+07:00</lastmod>
   </url>
   
   <url>
-    <loc>//thisisjibon.github.io/blogs/soon/</loc>
+    <loc>https://thisisjibon.github.io/blogs/soon/</loc>
     <lastmod>2022-04-08T23:15:00+07:00</lastmod>
   </url>
   
   <url>
-    <loc>//thisisjibon.github.io/projects/</loc>
-    <lastmod>2022-04-06T23:15:00+07:00</lastmod>
+    <loc>https://thisisjibon.github.io/projects/campusapp/</loc>
+    <lastmod>2022-01-13T23:15:00+07:00</lastmod>
   </url>
   
   <url>
-    <loc>//thisisjibon.github.io/projects/serious-manager/</loc>
-    <lastmod>2022-04-06T23:15:00+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//thisisjibon.github.io/research/</loc>
-    <lastmod>2022-04-05T23:15:00+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//thisisjibon.github.io/projects/unimanage/</loc>
-    <lastmod>2022-04-05T23:15:00+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//thisisjibon.github.io/research/erpred/</loc>
-    <lastmod>2022-04-05T23:15:00+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//thisisjibon.github.io/research/acetylcholinesterase/</loc>
-    <lastmod>2022-04-04T23:15:00+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//thisisjibon.github.io/projects/classmate/</loc>
-    <lastmod>2022-04-04T23:15:00+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//thisisjibon.github.io/tags/first/</loc>
+    <loc>https://thisisjibon.github.io/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//thisisjibon.github.io/page/</loc>
+    <loc>https://thisisjibon.github.io/page/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//thisisjibon.github.io/tags/</loc>
+    <loc>https://thisisjibon.github.io/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//thisisjibon.github.io/categories/</loc>
+    <loc>https://thisisjibon.github.io/projects/classmate/</loc>
+    <lastmod>2020-07-06T23:15:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisisjibon.github.io/categories/</loc>
   </url>
   
 </urlset>

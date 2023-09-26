@@ -1,14 +1,14 @@
 ---
 title: "Serious-Manager"
-date: 2022-04-06T23:15:00+07:00
+date: 2023-01-05T23:15:00+07:00
 slug: serious-manager
 category: projects
 summary:
 description:
 cover:
-  image:
+  image: "images/projects/serious-manager-1.png"
   alt:
-  caption:
+  caption: "Figure: algorithm prediction for gameweek 20"
   relative: true
 showtoc: true
 draft: false
@@ -33,4 +33,6 @@ Serious-Manager predicts optimal Fantasy Premier League team for a gameweek, sug
 🛠️ **Tech Stack:** Python with Pandas, Matplotlib, scikit-learn
 
 # Links
-[GitHub Repository](https://github.com/ThisIsJibon/serious-manager)
+[GitHub Repository](https://github.com/ThisIsJibon/serious-manager) 
+
+[Presentation Slide](https://docs.google.com/presentation/d/12OotD8H5X2q6HStdCf8TSTwteLs_q-84oQTjnYSlY8A/edit?usp=sharing) 

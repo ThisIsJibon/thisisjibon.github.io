@@ -2,33 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Researches on Mehedi Hasan Jibon</title>
-    <link>//thisisjibon.github.io/research/</link>
+    <link>https://thisisjibon.github.io/research/</link>
     <description>Recent content in Researches on Mehedi Hasan Jibon</description>
     <image>
-      <url>//thisisjibon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//thisisjibon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://thisisjibon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://thisisjibon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Apr 2022 23:15:00 +0700</lastBuildDate><atom:link href="//thisisjibon.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Sep 2023 23:15:00 +0700</lastBuildDate><atom:link href="https://thisisjibon.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Unraveling the Intersection of HCI and Neurodiversity in Bangladesh</title>
-      <link>//thisisjibon.github.io/research/erpred/</link>
-      <pubDate>Tue, 05 Apr 2022 23:15:00 +0700</pubDate>
+      <title>BanglaBeats: Enhancing Bangla Music Genre Classification</title>
+      <link>https://thisisjibon.github.io/research/banglabeats/</link>
+      <pubDate>Fri, 15 Sep 2023 23:15:00 +0700</pubDate>
       
-      <guid>//thisisjibon.github.io/research/erpred/</guid>
-      <description>Overview In the enchanting realm where Human-Computer Interaction (HCI) meets the captivating tapestry of neurodiversity, our research project, &amp;ldquo;Unraveling the Intersection of HCI and Neurodiversity in Bangladesh,&amp;rdquo; seeks to illuminate new pathways of understanding and support for individuals with Attention-Deficit/Hyperactivity Disorder (ADHD).
-Semi-Structured Interviews: As explorers of human experiences, we embarked on a journey of discovery. Through semi-structured interviews with parents of children with ADHD and expert caregivers, we navigated the intricate web of attitudes, beliefs, and lived realities surrounding ADHD within the Bangladeshi cultural context.</description>
+      <guid>https://thisisjibon.github.io/research/banglabeats/</guid>
+      <description>Overview Music Genre Classification holds significant importance in the context of music content distribution platforms. In this study, we present BanglaBeats, a comprehensive dataset of Bengali songs. We also propose a CNN-based approach that surpasses previous CNN-based Bangla music genre classification approaches in terms of accuracy. We did not stop here. We explored the possibility of transformer-based approaches for Bengali music genre classification tasks. We fine-tuned DistiHubert and Wav2-Vec2-Base-960h models. Our results reveal that further optimization techniques can enhance this task.</description>
     </item>
     
     <item>
-      <title>BanglaBeats: Enhancing Bangla Music Genre Classification</title>
-      <link>//thisisjibon.github.io/research/acetylcholinesterase/</link>
-      <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
+      <title>Unraveling the Intersection of HCI and Neurodiversity in Bangladesh</title>
+      <link>https://thisisjibon.github.io/research/adhd-intervention/</link>
+      <pubDate>Tue, 05 Sep 2023 23:15:00 +0700</pubDate>
       
-      <guid>//thisisjibon.github.io/research/acetylcholinesterase/</guid>
-      <description>Overview In the vibrant world of music and machine learning, our project, &amp;ldquo;BanglaBeats,&amp;rdquo; emerges as a harmonious fusion of technology and culture. Focusing on the rich and diverse landscape of Bangla music, we embarked on a journey to enhance the accuracy and efficiency of Bangla music genre classification.
-Comprehensive Dataset At the heart of our project lies a meticulously curated dataset of Bangla songs. Comprising 1617 data samples spanning across 8 distinct genres, it forms the foundation upon which our research thrives.</description>
+      <guid>https://thisisjibon.github.io/research/adhd-intervention/</guid>
+      <description>Overview ADHD is characterized as one of the most prevalent neurodevelopmental conditions worldwide. Children with ADHD face many cognitive challenges in the social and academic context. In this regard, we hypothesize about e-learning-based technological intervention. In this study, we address existing factors that impact the adoption of technological intervention and design an effective technological intervention for ADHD children in Bangladesh.
+Semi-Structured Interview Before designing the intervention, we conducted a semi-structured interview with parents of ADHD children and professional caregivers.</description>
     </item>
     
   </channel>

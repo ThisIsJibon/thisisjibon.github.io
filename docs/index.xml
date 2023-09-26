@@ -2,21 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mehedi Hasan Jibon</title>
-    <link>//thisisjibon.github.io/</link>
+    <link>https://thisisjibon.github.io/</link>
     <description>Recent content on Mehedi Hasan Jibon</description>
     <image>
-      <url>//thisisjibon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//thisisjibon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://thisisjibon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://thisisjibon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2022 23:15:00 +0700</lastBuildDate><atom:link href="//thisisjibon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 23:15:00 +0700</lastBuildDate><atom:link href="https://thisisjibon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BanglaBeats: Enhancing Bangla Music Genre Classification</title>
+      <link>https://thisisjibon.github.io/research/banglabeats/</link>
+      <pubDate>Fri, 15 Sep 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://thisisjibon.github.io/research/banglabeats/</guid>
+      <description>Overview Music Genre Classification holds significant importance in the context of music content distribution platforms. In this study, we present BanglaBeats, a comprehensive dataset of Bengali songs. We also propose a CNN-based approach that surpasses previous CNN-based Bangla music genre classification approaches in terms of accuracy. We did not stop here. We explored the possibility of transformer-based approaches for Bengali music genre classification tasks. We fine-tuned DistiHubert and Wav2-Vec2-Base-960h models. Our results reveal that further optimization techniques can enhance this task.</description>
+    </item>
+    
+    <item>
+      <title>Unraveling the Intersection of HCI and Neurodiversity in Bangladesh</title>
+      <link>https://thisisjibon.github.io/research/adhd-intervention/</link>
+      <pubDate>Tue, 05 Sep 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://thisisjibon.github.io/research/adhd-intervention/</guid>
+      <description>Overview ADHD is characterized as one of the most prevalent neurodevelopmental conditions worldwide. Children with ADHD face many cognitive challenges in the social and academic context. In this regard, we hypothesize about e-learning-based technological intervention. In this study, we address existing factors that impact the adoption of technological intervention and design an effective technological intervention for ADHD children in Bangladesh.
+Semi-Structured Interview Before designing the intervention, we conducted a semi-structured interview with parents of ADHD children and professional caregivers.</description>
+    </item>
+    
+    <item>
+      <title>Shopwise</title>
+      <link>https://thisisjibon.github.io/projects/shopwise/</link>
+      <pubDate>Fri, 19 May 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://thisisjibon.github.io/projects/shopwise/</guid>
+      <description>Overview Shopwise is an e-commerce platform with an integrated banking system. The goal of this project includes developing an efficient order processing system so that suppliers and customers face less hassle and building a robust banking system for seamless and secure transactions.
+Features 🏦 Integrated Banking Services: Developed a banking system and integrated it with the platform, allowing users to make secure transactions using their bank accounts.
+🔐 Secure Transactions: Implement secure and reliable transaction mechanisms, ensuring that user data, payment information, and transaction records are protected from unauthorized access and fraud.</description>
+    </item>
+    
+    <item>
+      <title>Serious-Manager</title>
+      <link>https://thisisjibon.github.io/projects/serious-manager/</link>
+      <pubDate>Thu, 05 Jan 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://thisisjibon.github.io/projects/serious-manager/</guid>
+      <description>Overview Serious-Manager predicts optimal Fantasy Premier League team for a gameweek, suggests optimal transfer and best captain choice. We created a comprehensive time-series database of all premier league players, incorporated various prediction approaches like Neural Network, Random Forest, Decision Tree. Our approach surpassed average FPL manager&amp;rsquo;s score by scoring over 100%.
+Features 📈 Remarkable Score Boost: Our approach surpassed average FPL manager score by over 100%, it reshapes the playing field, turning every matchday into an opportunity for success.</description>
+    </item>
+    
+    <item>
+      <title>UniManage</title>
+      <link>https://thisisjibon.github.io/projects/unimanage/</link>
+      <pubDate>Thu, 30 Jun 2022 23:15:00 +0700</pubDate>
+      
+      <guid>https://thisisjibon.github.io/projects/unimanage/</guid>
+      <description>Overview UniManage is a web platform designed to streamline university administration processes. Our innovative approach includes a robust third normal form database architecture to ensure data integrity. With features like real-time results updates, convenient course registration, and personalized daily schedules, UniManage empowers universities to operate more efficiently and provide a seamless experience for students and faculty.
+Features 📊 Efficient Database Design: At the core of UniManage lies a robust designed database structure.</description>
+    </item>
+    
     <item>
       <title>About</title>
-      <link>//thisisjibon.github.io/about/</link>
+      <link>https://thisisjibon.github.io/about/</link>
       <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
       
-      <guid>//thisisjibon.github.io/about/</guid>
+      <guid>https://thisisjibon.github.io/about/</guid>
       <description>Hey there! 👋
 I’m a final year undergraduate student at SUST, studying Computer Science and Engineering.
 My primary interest lies in Human-Computer Interaction (HCI) research, where I am currently exploring ways to improve computer systems for neurodivergent usergroup. I’m also fascinated by Machine Learning (ML) systems and how they can enhance HCI.
@@ -26,79 +76,50 @@ When I’m not geeking out over tech, you’ll find me listening to alternative 
     
     <item>
       <title>Infographics</title>
-      <link>//thisisjibon.github.io/infographics/</link>
+      <link>https://thisisjibon.github.io/infographics/</link>
       <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
       
-      <guid>//thisisjibon.github.io/infographics/</guid>
+      <guid>https://thisisjibon.github.io/infographics/</guid>
       <description>I also create hand-drawn infographics and illustrations to summarize the key concepts in data science, machine learning and bioinformatics.</description>
     </item>
     
     <item>
       <title>Coming Soon!</title>
-      <link>//thisisjibon.github.io/blogs/soon/</link>
+      <link>https://thisisjibon.github.io/blogs/soon/</link>
       <pubDate>Fri, 08 Apr 2022 23:15:00 +0700</pubDate>
       
-      <guid>//thisisjibon.github.io/blogs/soon/</guid>
+      <guid>https://thisisjibon.github.io/blogs/soon/</guid>
       <description>Preview Exciting stuffs are coming soon!</description>
     </item>
     
     <item>
-      <title>Serious-Manager</title>
-      <link>//thisisjibon.github.io/projects/serious-manager/</link>
-      <pubDate>Wed, 06 Apr 2022 23:15:00 +0700</pubDate>
+      <title>CampusApp</title>
+      <link>https://thisisjibon.github.io/projects/campusapp/</link>
+      <pubDate>Thu, 13 Jan 2022 23:15:00 +0700</pubDate>
       
-      <guid>//thisisjibon.github.io/projects/serious-manager/</guid>
-      <description>Overview Serious-Manager predicts optimal Fantasy Premier League team for a gameweek, suggests optimal transfer and best captain choice. We created a comprehensive time-series database of all premier league players, incorporated various prediction approaches like Neural Network, Random Forest, Decision Tree. Our approach surpassed average FPL manager&amp;rsquo;s score by scoring over 100%.
-Features 📈 Remarkable Score Boost: Our approach surpassed average FPL manager score by over 100%, it reshapes the playing field, turning every matchday into an opportunity for success.</description>
-    </item>
-    
-    <item>
-      <title>UniManage</title>
-      <link>//thisisjibon.github.io/projects/unimanage/</link>
-      <pubDate>Tue, 05 Apr 2022 23:15:00 +0700</pubDate>
-      
-      <guid>//thisisjibon.github.io/projects/unimanage/</guid>
-      <description>Overview UniManage is a web platform designed to streamline university administration processes. Our innovative approach includes a robust third normal form database architecture to ensure data integrity. With features like real-time results updates, convenient course registration, and personalized daily schedules, UniManage empowers universities to operate more efficiently and provide a seamless experience for students and faculty.
-Features 📊 Efficient Database Design: At the core of UniManage lies a robust designed database structure.</description>
-    </item>
-    
-    <item>
-      <title>Unraveling the Intersection of HCI and Neurodiversity in Bangladesh</title>
-      <link>//thisisjibon.github.io/research/erpred/</link>
-      <pubDate>Tue, 05 Apr 2022 23:15:00 +0700</pubDate>
-      
-      <guid>//thisisjibon.github.io/research/erpred/</guid>
-      <description>Overview In the enchanting realm where Human-Computer Interaction (HCI) meets the captivating tapestry of neurodiversity, our research project, &amp;ldquo;Unraveling the Intersection of HCI and Neurodiversity in Bangladesh,&amp;rdquo; seeks to illuminate new pathways of understanding and support for individuals with Attention-Deficit/Hyperactivity Disorder (ADHD).
-Semi-Structured Interviews: As explorers of human experiences, we embarked on a journey of discovery. Through semi-structured interviews with parents of children with ADHD and expert caregivers, we navigated the intricate web of attitudes, beliefs, and lived realities surrounding ADHD within the Bangladeshi cultural context.</description>
-    </item>
-    
-    <item>
-      <title>BanglaBeats: Enhancing Bangla Music Genre Classification</title>
-      <link>//thisisjibon.github.io/research/acetylcholinesterase/</link>
-      <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
-      
-      <guid>//thisisjibon.github.io/research/acetylcholinesterase/</guid>
-      <description>Overview In the vibrant world of music and machine learning, our project, &amp;ldquo;BanglaBeats,&amp;rdquo; emerges as a harmonious fusion of technology and culture. Focusing on the rich and diverse landscape of Bangla music, we embarked on a journey to enhance the accuracy and efficiency of Bangla music genre classification.
-Comprehensive Dataset At the heart of our project lies a meticulously curated dataset of Bangla songs. Comprising 1617 data samples spanning across 8 distinct genres, it forms the foundation upon which our research thrives.</description>
-    </item>
-    
-    <item>
-      <title>Classmate</title>
-      <link>//thisisjibon.github.io/projects/classmate/</link>
-      <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
-      
-      <guid>//thisisjibon.github.io/projects/classmate/</guid>
-      <description>Overview Classmate is a dynamic hub for educators and students to foster collaborative learning environment. This powerful tool seamlessly integrates class management with advanced database query functionalities, providing an all-in-one solution for educational communities.
-Features 📚 Streamlined Class Management: With a user-friendly interface, Classmate empowers educators to efficiently manage classes, threads, and resources. With the help of using Builder Design Pattern and traditional Object-Oriented Programming concepts in its architecture, we ensured scalability and adaptability.</description>
+      <guid>https://thisisjibon.github.io/projects/campusapp/</guid>
+      <description>Overview CampusApp is a one-stop community hub for busy campus individuals. It provides community-based services within the campus, making information more accessible and services more seamless.
+Features 📢 Notices: Stay informed about departmental and organizational updates. From class schedules to important announcements, CampusApp ensures you never miss a beat.
+🎉 Events: Discover and participate in events that are open to everyone. Whether it&amp;rsquo;s a campus-wide celebration or a club meetup, CampusApp keeps you in the loop.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>//thisisjibon.github.io/page/</link>
+      <link>https://thisisjibon.github.io/page/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>//thisisjibon.github.io/page/</guid>
+      <guid>https://thisisjibon.github.io/page/</guid>
       <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Classmate</title>
+      <link>https://thisisjibon.github.io/projects/classmate/</link>
+      <pubDate>Mon, 06 Jul 2020 23:15:00 +0700</pubDate>
+      
+      <guid>https://thisisjibon.github.io/projects/classmate/</guid>
+      <description>Overview Classmate is a dynamic hub for educators and students to foster collaborative learning environment. This powerful tool seamlessly integrates class management with advanced database query functionalities, providing an all-in-one solution for educational communities.
+Features 📚 Streamlined Class Management: With a user-friendly interface, Classmate empowers educators to efficiently manage classes, threads, and resources. With the help of using Builder Design Pattern and traditional Object-Oriented Programming concepts in its architecture, we ensured scalability and adaptability.</description>
     </item>
     
   </channel>

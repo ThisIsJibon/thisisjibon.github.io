@@ -2,41 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Mehedi Hasan Jibon</title>
-    <link>//thisisjibon.github.io/projects/</link>
+    <link>https://thisisjibon.github.io/projects/</link>
     <description>Recent content in Projects on Mehedi Hasan Jibon</description>
     <image>
-      <url>//thisisjibon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//thisisjibon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://thisisjibon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://thisisjibon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Apr 2022 23:15:00 +0700</lastBuildDate><atom:link href="//thisisjibon.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 May 2023 23:15:00 +0700</lastBuildDate><atom:link href="https://thisisjibon.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shopwise</title>
+      <link>https://thisisjibon.github.io/projects/shopwise/</link>
+      <pubDate>Fri, 19 May 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://thisisjibon.github.io/projects/shopwise/</guid>
+      <description>Overview Shopwise is an e-commerce platform with an integrated banking system. The goal of this project includes developing an efficient order processing system so that suppliers and customers face less hassle and building a robust banking system for seamless and secure transactions.
+Features 🏦 Integrated Banking Services: Developed a banking system and integrated it with the platform, allowing users to make secure transactions using their bank accounts.
+🔐 Secure Transactions: Implement secure and reliable transaction mechanisms, ensuring that user data, payment information, and transaction records are protected from unauthorized access and fraud.</description>
+    </item>
+    
     <item>
       <title>Serious-Manager</title>
-      <link>//thisisjibon.github.io/projects/serious-manager/</link>
-      <pubDate>Wed, 06 Apr 2022 23:15:00 +0700</pubDate>
+      <link>https://thisisjibon.github.io/projects/serious-manager/</link>
+      <pubDate>Thu, 05 Jan 2023 23:15:00 +0700</pubDate>
       
-      <guid>//thisisjibon.github.io/projects/serious-manager/</guid>
+      <guid>https://thisisjibon.github.io/projects/serious-manager/</guid>
       <description>Overview Serious-Manager predicts optimal Fantasy Premier League team for a gameweek, suggests optimal transfer and best captain choice. We created a comprehensive time-series database of all premier league players, incorporated various prediction approaches like Neural Network, Random Forest, Decision Tree. Our approach surpassed average FPL manager&amp;rsquo;s score by scoring over 100%.
 Features 📈 Remarkable Score Boost: Our approach surpassed average FPL manager score by over 100%, it reshapes the playing field, turning every matchday into an opportunity for success.</description>
     </item>
     
     <item>
       <title>UniManage</title>
-      <link>//thisisjibon.github.io/projects/unimanage/</link>
-      <pubDate>Tue, 05 Apr 2022 23:15:00 +0700</pubDate>
+      <link>https://thisisjibon.github.io/projects/unimanage/</link>
+      <pubDate>Thu, 30 Jun 2022 23:15:00 +0700</pubDate>
       
-      <guid>//thisisjibon.github.io/projects/unimanage/</guid>
+      <guid>https://thisisjibon.github.io/projects/unimanage/</guid>
       <description>Overview UniManage is a web platform designed to streamline university administration processes. Our innovative approach includes a robust third normal form database architecture to ensure data integrity. With features like real-time results updates, convenient course registration, and personalized daily schedules, UniManage empowers universities to operate more efficiently and provide a seamless experience for students and faculty.
 Features 📊 Efficient Database Design: At the core of UniManage lies a robust designed database structure.</description>
     </item>
     
     <item>
-      <title>Classmate</title>
-      <link>//thisisjibon.github.io/projects/classmate/</link>
-      <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
+      <title>CampusApp</title>
+      <link>https://thisisjibon.github.io/projects/campusapp/</link>
+      <pubDate>Thu, 13 Jan 2022 23:15:00 +0700</pubDate>
       
-      <guid>//thisisjibon.github.io/projects/classmate/</guid>
+      <guid>https://thisisjibon.github.io/projects/campusapp/</guid>
+      <description>Overview CampusApp is a one-stop community hub for busy campus individuals. It provides community-based services within the campus, making information more accessible and services more seamless.
+Features 📢 Notices: Stay informed about departmental and organizational updates. From class schedules to important announcements, CampusApp ensures you never miss a beat.
+🎉 Events: Discover and participate in events that are open to everyone. Whether it&amp;rsquo;s a campus-wide celebration or a club meetup, CampusApp keeps you in the loop.</description>
+    </item>
+    
+    <item>
+      <title>Classmate</title>
+      <link>https://thisisjibon.github.io/projects/classmate/</link>
+      <pubDate>Mon, 06 Jul 2020 23:15:00 +0700</pubDate>
+      
+      <guid>https://thisisjibon.github.io/projects/classmate/</guid>
       <description>Overview Classmate is a dynamic hub for educators and students to foster collaborative learning environment. This powerful tool seamlessly integrates class management with advanced database query functionalities, providing an all-in-one solution for educational communities.
 Features 📚 Streamlined Class Management: With a user-friendly interface, Classmate empowers educators to efficiently manage classes, threads, and resources. With the help of using Builder Design Pattern and traditional Object-Oriented Programming concepts in its architecture, we ensured scalability and adaptability.</description>
     </item>

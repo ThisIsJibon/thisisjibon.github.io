@@ -1,14 +1,14 @@
 ---
 title: "UniManage"
-date: 2022-04-05T23:15:00+07:00
+date: 2022-06-30T23:15:00+07:00
 slug: unimanage
 category: projects
 summary:
 description:
 cover:
-  image:
+  image: "images/projects/unimanage-2.png"
   alt:
-  caption:
+  caption: "Figure: personalized schedule feature in unimanage"
   relative: true
 showtoc: true
 draft: false
