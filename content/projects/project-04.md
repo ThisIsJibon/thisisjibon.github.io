@@ -33,7 +33,7 @@ CampusApp is a one-stop community hub for busy campus individuals. It provides c
 
 
 
-# Technical Aspect
+# Technical Aspect 🛠️
 
 
     Language: Kotlin

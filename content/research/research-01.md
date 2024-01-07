@@ -6,7 +6,7 @@ category: research
 summary:
 description: 
 cover:
-  image: "images/researches/mgc.jpg"
+  image: "images/research/mgc.jpg"
   alt:
   caption: 
   relative: true
