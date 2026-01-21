@@ -1,0 +1,33 @@
+title: Mehedi Hasan Jibon
+url: "https://thisisjibon.github.io"
+baseurl: ""
+
+markdown: kramdown
+# ins_logo: "./logo.jpg"
+
+tracking_id: #
+
+footer: yes
+footer_text: |
+  <p style="text-align: center;">
+    <a href="mailto:jibonmh7@gmail.com">Email</a> |
+    <a href="https://scholar.google.com/citations?user=MHGncOAAAAAJ">Google Scholar</a> |
+    <a href="https://www.linkedin.com/in/thisisjibon">LinkedIn</a> | 
+    <a href="https://www.github.com/thisisjibon">Github</a> | 
+    Site built with <a href="https://jekyllrb.com">Jekyll</a>, template <a href="https://github.com/ankitsultana/researcher">here</a>
+  </p>
+  <div style="height: 40px;"></div>
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+  - name: "Life"
+    link: "/life/"
+  - name: "Publications"
+    link: "/publications/"
+  - name: "Teaching"
+    link: "/teaching/"
+
+
