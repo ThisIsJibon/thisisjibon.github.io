@@ -75,67 +75,6 @@ Outside of research, I find a lot of myself in music, stories, and places. I lov
 I take photos to remember how things felt. These are some of my favourites.
 
 
-<!-- ---
-
-<div class="category-section">
-
-## Music
-
-<div class="media-grid">
-  <div class="media-item">
-    <img src="/images/life/album-1.jpg" alt="Album 1">
-    <h3>Album Title 1</h3>
-    <p>Brief description about this album and what it means to you.</p>
-  </div>
-  
-  <div class="media-item">
-    <img src="/images/life/album-2.jpg" alt="Album 2">
-    <h3>Album Title 2</h3>
-    <p>Brief description about this album and what it means to you.</p>
-  </div>
-  
-  <div class="media-item">
-    <img src="/images/life/album-3.jpg" alt="Album 3">
-    <h3>Album Title 3</h3>
-    <p>Brief description about this album and what it means to you.</p>
-  </div>
-  
-  <div class="media-item">
-    <img src="/images/life/album-4.jpg" alt="Album 4">
-    <h3>Album Title 4</h3>
-    <p>Brief description about this album and what it means to you.</p>
-  </div>
-  
-  <div class="media-item">
-    <img src="/images/life/album-5.jpg" alt="Album 5">
-    <h3>Album Title 5</h3>
-    <p>Brief description about this album and what it means to you.</p>
-  </div>
-  
-  <div class="media-item">
-    <img src="/images/life/album-6.jpg" alt="Album 6">
-    <h3>Album Title 6</h3>
-    <p>Brief description about this album and what it means to you.</p>
-  </div>
-  
-  <div class="media-item">
-    <img src="/images/life/album-7.jpg" alt="Album 7">
-    <h3>Album Title 6</h3>
-    <p>Brief description about this album and what it means to you.</p>
-  </div>
-  
-  <div class="media-item">
-    <img src="/images/life/album-8.jpg" alt="Album 8">
-    <h3>Album Title 6</h3>
-    <p>Brief description about this album and what it means to you.</p>
-  </div>
-  
-</div>
-
-</div>
-
---- -->
-
 
 <div class="category-section">
 
@@ -143,7 +82,7 @@ I take photos to remember how things felt. These are some of my favourites.
 
 <div class="media-grid">
   <div class="media-item">
-    <img src="/images/life/photo-1.jpg" alt="Photo 1">
+    <img src="/images/life/photo-1.JPG" alt="Photo 1">
     <h3>Treasure Island, Florida</h3>
     <p>Easily the most beautiful sunset I’ve ever seen. </p>
   </div>
@@ -155,7 +94,7 @@ I take photos to remember how things felt. These are some of my favourites.
   </div>
   
   <div class="media-item">
-    <img src="/images/life/photo-3.jpg" alt="Photo 3">
+    <img src="/images/life/photo-3.JPG" alt="Photo 3">
     <h3>Tokyo, Japan</h3>
     <p>An underground vinyl record store tucked beneath the streets of Shibuya, Tokyo.</p>
   </div>
@@ -167,13 +106,13 @@ I take photos to remember how things felt. These are some of my favourites.
   </div>
   
   <div class="media-item">
-    <img src="/images/life/photo-5.jpg" alt="Photo 5">
+    <img src="/images/life/photo-5.JPG" alt="Photo 5">
     <h3>Clearwater, Florida</h3>
     <p>Clearwater, just before the night.</p>
   </div>
   
   <div class="media-item">
-    <img src="/images/life/photo-6.jpg" alt="Photo 6">
+    <img src="/images/life/photo-6.JPG" alt="Photo 6">
     <h3>Montreal, Canada</h3>
     <p>Looking out over the Montreal skyline from Mount Royal.</p>
   </div>
