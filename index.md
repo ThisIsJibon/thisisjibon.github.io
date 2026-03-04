@@ -32,6 +32,7 @@ If you’d like to learn more, you can explore my research projects and publicat
 ## Updates 
 
 <ul>
+  <li><b>March 2026</b> – One paper accepted at AVI.</li>
   <li><b>Jan 2026</b> – One paper accepted at CHI.</li>
   <li><b>Nov 2025</b> – Traveled to Montreal, Canada to present at ACM VRST.</li>
   <li><b>Nov 2025</b> – Awarded the USF Fall ’25 International Travel Grant ($1,500).</li>

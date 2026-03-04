@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [jibonmh7@gmail.com](mailto:jibonmh7@gmail.com)
+* Email: [jibon@usf.edu](mailto:jibon@usf.edu)
 
 * Phone: [+91-123123](tel:+91-123123)
 
