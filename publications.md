@@ -8,11 +8,14 @@ permalink: /publications/
 <small>\* equal contributions.</small>
 
 <h3>2026</h3>
+<b>Using Open-Ended Elicitation to Explore Adults’ Virtual-Object Interaction Preferences in AR Headsets</b><br>
+A. Delgado, <u>M. H. Jibon</u>, H. Shah, F. Rahman, A. Kurnikova, J. Woodward<br>
+To appear in ACM International Conference on Advanced Visual Interfaces (AVI)<br>
 
 <b>"If you are a Star Wars fan, use the force": Exploring Children's Virtual-Object Interaction Preferences in AR Headsets</b><br>
-<a target="_blank" href="https://doi.org/10.1145/3772318.3790552">link</a><br>
+<a target="_blank" href="https://doi.org/10.1145/3772318.3790552">link</a> | <a target="_blank" href="https://drive.google.com/file/d/1-HkX_eax2XtnKf1OXNiqmcWSwM5o_AIb/view?usp=drive_link">pdf</a><br>
 A. Delgado, <u>M. H. Jibon</u>, H. Shah, F. Rahman, A. Kurnikova, J. Woodward<br>
-ACM Conference on Human Factors in Computing Systems (CHI) <i>(to appear)</i><br>
+ACM Conference on Human Factors in Computing Systems (CHI)<br>
 
 <h3>2025</h3>
 

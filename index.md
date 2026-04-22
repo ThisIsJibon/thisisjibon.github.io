@@ -32,13 +32,15 @@ If you’d like to learn more, you can explore my research projects and publicat
 ## Updates 
 
 <ul>
+  <li><b>Apr 2026</b> – Got accepted to ACM Europe Summer School on Accessible and Inclusive Technologies.</li>
+  <li><b>Apr 2026</b> – Traveled to Barcelona, Spain to attend CHI ’26.</li>
   <li><b>Mar 2026</b> – One paper accepted at AVI.</li>
   <li><b>Jan 2026</b> – One paper accepted at CHI.</li>
-  <li><b>Nov 2025</b> – Traveled to Montreal, Canada to present at ACM VRST.</li>
+  <li><b>Nov 2025</b> – Traveled to Montreal, Canada to attend VRST ’25.</li>
   <li><b>Nov 2025</b> – Awarded the USF Fall ’25 International Travel Grant ($1,500).</li>
   <li><b>Sep 2025</b> – One paper accepted at VRST.</li>
   <li><b>May 2025</b> – Successfully completed PhD qualifying exam.</li>
-  <li><b>Apr 2025</b> – Traveled to Yokohama, Japan to present at ACM CHI.</li>
+  <li><b>Apr 2025</b> – Traveled to Yokohama, Japan to attend CHI ’25.</li>
   <li><b>Feb 2025</b> – One paper accepted as a CHI Late-Breaking Work.</li>
   <li><b>Aug 2024</b> – Started PhD in Computer Science at the University of South Florida.</li>
   <li><b>Jul 2024</b> – Graduated from Shahjalal University of Science and Technology.</li>
