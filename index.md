@@ -24,6 +24,8 @@ If you’d like to learn more, you can explore my research projects and publicat
 ## Honors and Awards 
 
 <ul>
+<li>USF Diversity Scholarship, University of South Florida.</li>
+<li>Steve and Cheyenne Currall Global Scholarship, University of South Florida.</li>
 <li>International Travel Grant, University of South Florida (2025, awarded $1,500)</li>
 <li>University Merit Scholarship, Shahjalal University of Science and Technology (2020-2024)</li>
 </ul>
@@ -32,6 +34,8 @@ If you’d like to learn more, you can explore my research projects and publicat
 ## Updates 
 
 <ul>
+  <li><b>Jun 2026</b> – Awarded USF Diversity Scholarship.</li>
+  <li><b>Jun 2026</b> – Awarded Steve and Cheyenne Currall Global Scholarship.</li>
   <li><b>Apr 2026</b> – Got accepted to ACM Europe Summer School on Accessible and Inclusive Technologies.</li>
   <li><b>Apr 2026</b> – Traveled to Barcelona, Spain to attend CHI ’26.</li>
   <li><b>Mar 2026</b> – One paper accepted at AVI.</li>

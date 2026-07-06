@@ -9,6 +9,7 @@ permalink: /publications/
 
 <h3>2026</h3>
 <b>Using Open-Ended Elicitation to Explore Adults’ Virtual-Object Interaction Preferences in AR Headsets</b><br>
+<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3811427.3811433">link</a> | <a target="_blank" href="https://drive.google.com/file/d/1PDYvVMcQeFSpVgWQbqxpLNEwRggY_tLi/view?usp=drive_link">pdf</a><br>
 A. Delgado, <u>M. H. Jibon</u>, H. Shah, F. Rahman, A. Kurnikova, J. Woodward<br>
 To appear in ACM International Conference on Advanced Visual Interfaces (AVI)<br>
 
