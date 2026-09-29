@@ -8,6 +8,14 @@ I have served as a Teaching Assistant for undergraduate and graduate courses at 
 <a href="https://www.usf.edu/" target="_blank">University of South Florida (USF)</a>.
 My responsibilities primarily included grading assignments and exams, designing and administering quizzes, holding office hours, leading discussion sessions, and coordinating course projects.
 
+
+<strong>CIS 4250: Ethical Issues / Professional Conduct</strong><br>
+Teaching Assistant | Fall 2026 | ~70 students<br>
+Instructor: <a href="https://www.usf.edu/ai-cybersecurity-computing/people/faculty/karni.aspx" target="_blank">Dr. Karni Chagal-Feferkorn</a>
+
+<p> This course examines ethical and professional issues in computing, including privacy, security, intellectual property, and the societal impacts of technology. I support the course by grading assignments and quizzes, holding office hours, assisting with online course activities, and supporting students with course projects. </p>
+
+
 <strong>CIS 4250: Ethical Issues / Professional Conduct</strong><br>
 Teaching Assistant | Spring 2025 | ~50 students<br>
 Instructor: <a href="https://juliawoodward.wordpress.com/" target="_blank">Dr. Julia Woodward</a>
